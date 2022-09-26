@@ -1,0 +1,7 @@
+1@Peñarol@Montevideo
+2@Nacional@Montevideo
+3@Plaza@Colonia
+4@Liverpool@Montevideo
+5@Defensor@Montevideo
+6@Danubio@Montevideo
+7@Deportivo@Maldonado
