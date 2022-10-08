@@ -1,19 +1,15 @@
 import java.time.LocalDate;
 
-public class Arbitro  {
+public class Arbitro  extends Persona {
     private Integer idArbitro;
-    private String nombre;
-    private String apellido;
-    private Integer documento;
-    private LocalDate fechaNacimiento;
     private String puesto;
 
     public Arbitro(Integer idArbitro, String nombre, String apellido, Integer documento, LocalDate fechaNacimiento, String puesto) {
         this.idArbitro = idArbitro;
-        this.nombre = nombre;
-        this.apellido = apellido;
-        this.documento = documento;
-        this.fechaNacimiento = fechaNacimiento;
+        super.setNombre(nombre);
+        super.setApellido(apellido);
+        super.setDocumento(documento);
+        super.setFechaNacimiento(fechaNacimiento);
         this.puesto = puesto;
     }
     public Arbitro() {
@@ -24,30 +20,7 @@ public class Arbitro  {
     public void setIdArbitro(Integer idArbitro) {
         this.idArbitro = idArbitro;
     }
-    public String getNombre() {
-        return nombre;
-    }
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-    public String getApellido() {
-        return apellido;
-    }
-    public void setApellido(String apellido) {
-        this.apellido = apellido;
-    }
-    public Integer getDocumento() {
-        return documento;
-    }
-    public void setDocumento(Integer documento) {
-        this.documento = documento;
-    }
-    public LocalDate getFechaNacimiento() {
-        return fechaNacimiento;
-    }
-    public void setFechaNacimiento(LocalDate fechaNacimiento) {
-        this.fechaNacimiento = fechaNacimiento;
-    }
+
     public String getPuesto() {
         return puesto;
     }
@@ -56,6 +29,6 @@ public class Arbitro  {
     }
     @Override
     public String toString() {
-        return "Id: " + idArbitro + " Arbitro " + nombre + " " + apellido + " Puesto: " + puesto;
+        return "Id: " + idArbitro + " Arbitro " + super.getNombre() + " " + super.getApellido() + " " + puesto;
     }
 }

@@ -1,0 +1,116 @@
+Partido entre Peñarol y Nacional
+Fecha: 2022-05-06
+Hora: 12:30
+Estadio: Campeon del Siglo
+Arbitro Principal: Andrés Cunha
+Arbitro Linea 1: Andrés Matonte
+Arbitro Linea 2: Leodán González
+Arbitro Cuarto Arbitro: Esteban Ostojich
+ 
+Formacion Peñarol
+ 
+Director Tecnico: Leonardo Ramos
+----------------------------------------
+|             |    01    |             |   22
+|             |          |             |   17
+|             ------------             |   16
+|  03     02                32     05  |   11
+|                                      |   09
+|                 ----                 |
+|               -      -               |
+-------07----------06----------19-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      20          31          21      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Formacion Nacional
+ 
+Director Tecnico: Pablo Repetto
+----------------------------------------
+|             |    01    |             |   08
+|             |          |             |   21
+|             ------------             |   22
+|  02     03                04     13  |   18
+|                                      |   12
+|                 ----                 |
+|               -      -               |
+-------17----------06----------07-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      09          10          11      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Goles Peñarol
+ 
+Gol de: Matias Orozco En el minuto: 5'
+Gol de: Walter Gargano En el minuto: 34'
+Gol de: Matias Orozco En el minuto: 70'
+Gol de: Matias Orozco En el minuto: 90'
+Total de goles: 4
+ 
+Goles Nacional
+ 
+Gol de: Emmanuel Gigliotti En el minuto: 10'
+Gol de: Luis Suarez En el minuto: 43'
+Gol de: Alfonzo Trezza En el minuto: 56'
+Total de goles: 3
+ 
+Cambios Peñarol
+ 
+Cambio de: Walter Gargano por Sebastian Cristoforo
+Cambio de: Ignacio Laquintana por Hernan Rivero
+ 
+Cambios Nacional
+ 
+Cambio de: Juan Izquierdo por Alfonzo Trezza
+ 
+Formacion final de Peñarol
+ 
+----------------------------------------
+|             |    01    |             |
+|             |          |             |
+|             ------------             |
+|  03     02                32     07  |
+|                                      |
+|                 ----                 |
+|               -      -               |
+-------06----------19----------31-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      21          17          09      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Formacion final de Nacional
+ 
+----------------------------------------
+|             |    01    |             |
+|             |          |             |
+|             ------------             |
+|  03     02                32     07  |
+|                                      |
+|                 ----                 |
+|               -      -               |
+-------06----------19----------31-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      21          17          09      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Gana Peñarol

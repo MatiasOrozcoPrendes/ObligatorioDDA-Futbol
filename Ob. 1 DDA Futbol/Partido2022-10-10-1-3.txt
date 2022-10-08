@@ -1,0 +1,110 @@
+Partido entre Peñarol y Plaza
+Fecha: 2022-10-10
+Hora: 13:00
+Estadio: Suppici
+Arbitro Principal: Daniel Fedorczuk
+Arbitro Linea 1: Darío Ubríaco
+Arbitro Linea 2: Leodán González
+Arbitro Cuarto Arbitro: Esteban Ostojich
+ 
+Formacion Peñarol
+ 
+Director Tecnico: Leonardo Ramos
+----------------------------------------
+|             |    01    |             |   22
+|             |          |             |   17
+|             ------------             |   16
+|  03     02                32     05  |   11
+|                                      |   09
+|                 ----                 |
+|               -      -               |
+-------07----------06----------19-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      20          31          21      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Formacion Plaza
+ 
+Director Tecnico: Alejandro Cappuccio
+----------------------------------------
+|             |    01    |             |   13
+|             |          |             |   14
+|             ------------             |   15
+|  02     03                04     05  |   16
+|                                      |   17
+|                 ----                 |
+|               -      -               |
+-------06----------07----------08-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      09          10          11      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Goles Peñarol
+ 
+Gol de: Billy Arce En el minuto: 30'
+Total de goles: 1
+ 
+Goles Plaza
+ 
+Gol de: Cristian Rodriguez En el minuto: 60'
+Total de goles: 1
+ 
+Cambios Peñarol
+ 
+Cambio de: Brian Lozano por Lucas Viatri
+ 
+Cambios Plaza
+ 
+Cambio de: Osinachi Ebere por Jorge Ayala
+ 
+Formacion final de Peñarol
+ 
+----------------------------------------
+|             |    01    |             |
+|             |          |             |
+|             ------------             |
+|  03     02                32     05  |
+|                                      |
+|                 ----                 |
+|               -      -               |
+-------07----------19----------20-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      31          21          22      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Formacion final de Plaza
+ 
+----------------------------------------
+|             |    01    |             |
+|             |          |             |
+|             ------------             |
+|  03     02                32     05  |
+|                                      |
+|                 ----                 |
+|               -      -               |
+-------07----------19----------20-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      31          21          22      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Empate

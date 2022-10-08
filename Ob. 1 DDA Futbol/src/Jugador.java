@@ -1,21 +1,17 @@
 import java.time.LocalDate;
 
-public class Jugador {
+public class Jugador  extends Persona {
     private Integer idJugador;
-    private String nombre;
-    private String apellido;
-    private Integer documento;
-    private LocalDate fechaNacimiento;
     private Short numeroCamiseta;
     private String puesto;
     private Integer idEquipo;
 
     public Jugador(Integer idJugador, String nombre, String apellido, Integer documento, LocalDate fechaNacimiento, Short numeroCamiseta, String puesto, Integer idEquipo) {
         this.idJugador = idJugador;
-        this.nombre = nombre;
-        this.apellido = apellido;
-        this.documento = documento;
-        this.fechaNacimiento = fechaNacimiento;
+        super.setNombre(nombre);
+        super.setApellido(apellido);
+        super.setDocumento(documento);
+        super.setFechaNacimiento(fechaNacimiento);
         this.numeroCamiseta = numeroCamiseta;
         this.puesto = puesto;
         this.idEquipo = idEquipo;
@@ -27,30 +23,6 @@ public class Jugador {
     }
     public void setIdJugador(Integer idJugador) {
         this.idJugador = idJugador;
-    }
-    public String getNombre() {
-        return nombre;
-    }
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-    public String getApellido() {
-        return apellido;
-    }
-    public void setApellido(String apellido) {
-        this.apellido = apellido;
-    }
-    public Integer getDocumento() {
-        return documento;
-    }
-    public void setDocumento(Integer documento) {
-        this.documento = documento;
-    }
-    public LocalDate getFechaNacimiento() {
-        return fechaNacimiento;
-    }
-    public void setFechaNacimiento(LocalDate fechaNacimiento) {
-        this.fechaNacimiento = fechaNacimiento;
     }
     public Short getNumeroCamiseta() {
         return numeroCamiseta;
@@ -72,7 +44,7 @@ public class Jugador {
     }
     @Override
     public String toString() {
-        return "Id: " + idJugador + ", Jugador: " + nombre + " " + apellido
+        return "Id: " + idJugador + ", Jugador: " + super.getNombre() + " " + super.getApellido()
                 + ", Número de camiseta: " + numeroCamiseta + ", Puesto: " + puesto;
     }
 

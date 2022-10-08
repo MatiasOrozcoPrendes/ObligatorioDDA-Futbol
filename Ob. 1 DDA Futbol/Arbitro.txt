@@ -1,7 +1,7 @@
-1@Andrés@Cunha@12345678@1976-11-08@Arbitro
-2@Andrés@Cunha@14725836@1988-03-30@Asistente
-3@Leodán@González@36925814@1883-03-11@Asistente
-4@Esteban@Ostojich@78945612@1982-04-12@Arbitro
-6@Darío@Ubríaco@96385274@1972-02-08@Asistente
-7@Roberto@Silva@21548945@1971-01-30@Asistente
-8@Daniel@Fedorczuk@15987452@1976-05-02@Arbitro
+1@Andrés@Cunha@12345678@1976-11-08@arbitro
+2@Andrés@Matonte@14725836@1988-03-30@asistente
+3@Leodán@González@36925814@1883-03-11@asistente
+4@Esteban@Ostojich@78945612@1982-04-12@arbitro
+6@Darío@Ubríaco@96385274@1972-02-08@asistente
+7@Roberto@Silva@21548945@1971-01-30@asistente
+8@Daniel@Fedorczuk@15987452@1976-05-02@arbitro

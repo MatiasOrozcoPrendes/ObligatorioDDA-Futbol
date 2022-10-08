@@ -1,0 +1,112 @@
+Partido entre Peñarol y Plaza
+Fecha: 2022-05-05
+Hora: 13:00
+Estadio: Centenario
+Arbitro Principal: Daniel Fedorczuk
+Arbitro Linea 1: Darío Ubríaco
+Arbitro Linea 2: Roberto Silva
+Arbitro Cuarto Arbitro: Andrés Cunha
+ 
+Formacion Peñarol
+ 
+Director Tecnico: Leonardo Ramos
+----------------------------------------
+|             |    01    |             |   22
+|             |          |             |   17
+|             ------------             |   16
+|  03     02                32     05  |   11
+|                                      |   09
+|                 ----                 |
+|               -      -               |
+-------07----------06----------19-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      20          31          21      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Formacion Plaza
+ 
+Director Tecnico: Alejandro Cappuccio
+----------------------------------------
+|             |    01    |             |   13
+|             |          |             |   14
+|             ------------             |   15
+|  02     03                04     05  |   16
+|                                      |   17
+|                 ----                 |
+|               -      -               |
+-------06----------07----------08-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      09          10          11      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Goles Peñarol
+ 
+Gol de: Ignacio Laquintana En el minuto: 16'
+Gol de: Ruben Bentancourt En el minuto: 85'
+Total de goles: 2
+ 
+Goles Plaza
+ 
+Gol de: Nicolas Dibble En el minuto: 70'
+Gol de: Ramiro Quintana En el minuto: 95'
+Total de goles: 2
+ 
+Cambios Peñarol
+ 
+Cambio de: Matias Orozco por Ruben Bentancourt
+ 
+Cambios Plaza
+ 
+Cambio de: Alvaro Fernandez por Facundo Kidd
+ 
+Formacion final de Peñarol
+ 
+----------------------------------------
+|             |    01    |             |
+|             |          |             |
+|             ------------             |
+|  03     02                32     05  |
+|                                      |
+|                 ----                 |
+|               -      -               |
+-------07----------06----------19-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      20          21          11      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Formacion final de Plaza
+ 
+----------------------------------------
+|             |    01    |             |
+|             |          |             |
+|             ------------             |
+|  03     02                32     05  |
+|                                      |
+|                 ----                 |
+|               -      -               |
+-------07----------06----------19-------
+|               -      -               |
+|                 ----                 |
+|                                      |
+|      20          21          11      |
+|             ------------             |
+|             |          |             |
+|             |          |             |
+----------------------------------------
+ 
+Empate
